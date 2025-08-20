@@ -20,7 +20,7 @@ function unityShowBanner(msg, type) {
   updateBannerVisibility();
 }
 
-var buildUrl = "Build";
+var buildUrl = "/.proxy/Build";
 var loaderUrl = buildUrl + "/gooberislandwebgl.loader.js";
 var config = {
   arguments: [],
