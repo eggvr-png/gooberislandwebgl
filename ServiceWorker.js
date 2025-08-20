@@ -1,9 +1,9 @@
 const cacheName = "Egg Studios-Goober Island-b7";
 const contentToCache = [
     "Build/gooberislandwebgl.loader.js",
-    "Build/gooberislandwebgl.framework.js.br",
-    "Build/gooberislandwebgl.data.br",
-    "Build/gooberislandwebgl.wasm.br",
+    "Build/gooberislandwebgl.framework.js.unityweb",
+    "Build/gooberislandwebgl.data.unityweb",
+    "Build/gooberislandwebgl.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
